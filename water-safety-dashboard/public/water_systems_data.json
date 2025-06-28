@@ -1,0 +1,1813 @@
+[
+  {
+    "pwsid": "GA0010000",
+    "name": "BAXLEY",
+    "county": "Appling",
+    "zipCodes": [
+      "31515"
+    ],
+    "population": 5749,
+    "trustScore": 90,
+    "activeViolations": 2,
+    "lastViolation": "1999-07-01",
+    "waterSource": "Groundwater",
+    "recentViolations": [
+      {
+        "id": 74706,
+        "type": "MR",
+        "contaminant": "Total Coliform",
+        "date": "1999-07-01",
+        "status": "Active",
+        "healthBased": false,
+        "level": "0.0",
+        "limit": "5% of samples"
+      }
+    ]
+  },
+  {
+    "pwsid": "GA0010001",
+    "name": "SURRENCY",
+    "county": "Appling",
+    "zipCodes": [
+      "31563"
+    ],
+    "population": 468,
+    "trustScore": 95,
+    "activeViolations": 1,
+    "lastViolation": "2014-07-01",
+    "waterSource": "Groundwater",
+    "recentViolations": [
+      {
+        "id": 112072,
+        "type": "Other",
+        "contaminant": "Disinfection Byproducts",
+        "date": "2014-07-01",
+        "status": "Resolved",
+        "healthBased": false,
+        "limit": " "
+      },
+      {
+        "id": 112073,
+        "type": "Other",
+        "contaminant": "Disinfection Byproducts",
+        "date": "2014-07-01",
+        "status": "Resolved",
+        "healthBased": false,
+        "limit": " "
+      },
+      {
+        "id": 22906,
+        "type": "Other",
+        "contaminant": "Disinfection Byproducts",
+        "date": "2013-07-01",
+        "status": "Resolved",
+        "healthBased": false,
+        "limit": " "
+      }
+    ]
+  },
+  {
+    "pwsid": "GA0010002",
+    "name": "ALTAMAHA ELEMENTARY SCHOOL",
+    "county": "Appling",
+    "zipCodes": [
+      "31513"
+    ],
+    "population": 420,
+    "trustScore": 80,
+    "activeViolations": 4,
+    "lastViolation": "2007-01-01",
+    "waterSource": "Groundwater",
+    "recentViolations": [
+      {
+        "id": 22190,
+        "type": "Other",
+        "contaminant": "Unknown Contaminant",
+        "date": "2007-01-01",
+        "status": "Active",
+        "healthBased": false
+      },
+      {
+        "id": 25786,
+        "type": "MR",
+        "contaminant": "Treatment Technique",
+        "date": "2002-10-01",
+        "status": "Resolved",
+        "healthBased": false,
+        "limit": "TT "
+      },
+      {
+        "id": 25787,
+        "type": "MR",
+        "contaminant": "Treatment Technique",
+        "date": "2002-10-01",
+        "status": "Resolved",
+        "healthBased": false,
+        "limit": "TT "
+      }
+    ]
+  },
+  {
+    "pwsid": "GA0010003",
+    "name": "FOURTH DISTRICT ELEM. SCHOOL",
+    "county": "Appling",
+    "zipCodes": [
+      "31513"
+    ],
+    "population": 200,
+    "trustScore": 80,
+    "activeViolations": 4,
+    "lastViolation": "2007-01-01",
+    "waterSource": "Groundwater",
+    "recentViolations": [
+      {
+        "id": 82111,
+        "type": "Other",
+        "contaminant": "Unknown Contaminant",
+        "date": "2007-01-01",
+        "status": "Active",
+        "healthBased": false
+      },
+      {
+        "id": 24359,
+        "type": "MR",
+        "contaminant": "Nitrate",
+        "date": "2002-01-01",
+        "status": "Resolved",
+        "healthBased": false,
+        "limit": "10 mg/L"
+      },
+      {
+        "id": 24360,
+        "type": "MR",
+        "contaminant": "Nitrate",
+        "date": "2002-01-01",
+        "status": "Resolved",
+        "healthBased": false,
+        "limit": "10 mg/L"
+      }
+    ]
+  },
+  {
+    "pwsid": "GA0010005",
+    "name": "SOUTHERN NUCLEAR-PLANT HATCH",
+    "county": "Appling",
+    "zipCodes": [
+      "35243"
+    ],
+    "population": 950,
+    "trustScore": 85,
+    "activeViolations": 3,
+    "lastViolation": "2024-10-17",
+    "waterSource": "Groundwater",
+    "recentViolations": [
+      {
+        "id": 76145,
+        "type": "RPT",
+        "contaminant": "Radionuclides",
+        "date": "2024-10-17",
+        "status": "Active",
+        "healthBased": false
+      }
+    ]
+  },
+  {
+    "pwsid": "GA0010006",
+    "name": "GA BAPTIST CHILDREN`S HOME - BAXLEY",
+    "county": "Appling",
+    "zipCodes": [
+      "31513"
+    ],
+    "population": 58,
+    "trustScore": 80,
+    "activeViolations": 4,
+    "lastViolation": "2013-07-01",
+    "waterSource": "Groundwater",
+    "recentViolations": [
+      {
+        "id": 124096,
+        "type": "Other",
+        "contaminant": "Disinfection Byproducts",
+        "date": "2013-07-01",
+        "status": "Resolved",
+        "healthBased": false,
+        "limit": " "
+      },
+      {
+        "id": 124097,
+        "type": "Other",
+        "contaminant": "Disinfection Byproducts",
+        "date": "2013-07-01",
+        "status": "Resolved",
+        "healthBased": false,
+        "limit": " "
+      },
+      {
+        "id": 206,
+        "type": "MR",
+        "contaminant": "Total Coliform",
+        "date": "2006-10-01",
+        "status": "Active",
+        "healthBased": false,
+        "limit": "5% of samples"
+      }
+    ]
+  },
+  {
+    "pwsid": "GA0010011",
+    "name": "SOUTHERN NUCLEAR-HATCH REC",
+    "county": "Appling",
+    "zipCodes": [
+      "35243"
+    ],
+    "population": 50,
+    "trustScore": 70,
+    "activeViolations": 6,
+    "lastViolation": "2019-10-01",
+    "waterSource": "Groundwater",
+    "recentViolations": [
+      {
+        "id": 94710,
+        "type": "MON",
+        "contaminant": "Revised Total Coliform Rule",
+        "date": "2019-10-01",
+        "status": "Resolved",
+        "healthBased": false
+      },
+      {
+        "id": 94711,
+        "type": "MON",
+        "contaminant": "Revised Total Coliform Rule",
+        "date": "2019-10-01",
+        "status": "Resolved",
+        "healthBased": false
+      },
+      {
+        "id": 94712,
+        "type": "MON",
+        "contaminant": "Revised Total Coliform Rule",
+        "date": "2019-10-01",
+        "status": "Resolved",
+        "healthBased": false
+      }
+    ]
+  },
+  {
+    "pwsid": "GA0010019",
+    "name": "COOPER TRAVEL TRAILER PARK",
+    "county": "Appling",
+    "zipCodes": [
+      "31513"
+    ],
+    "population": 15,
+    "trustScore": 75,
+    "activeViolations": 5,
+    "lastViolation": "2024-10-01",
+    "waterSource": "Groundwater",
+    "recentViolations": [
+      {
+        "id": 103767,
+        "type": "MON",
+        "contaminant": "Revised Total Coliform Rule",
+        "date": "2024-10-01",
+        "status": "Active",
+        "healthBased": false
+      },
+      {
+        "id": 365,
+        "type": "MON",
+        "contaminant": "Revised Total Coliform Rule",
+        "date": "2016-10-01",
+        "status": "Resolved",
+        "healthBased": false
+      },
+      {
+        "id": 366,
+        "type": "MON",
+        "contaminant": "Revised Total Coliform Rule",
+        "date": "2016-10-01",
+        "status": "Resolved",
+        "healthBased": false
+      }
+    ]
+  },
+  {
+    "pwsid": "GA0010043",
+    "name": "GRAHAM WATER SYSTEM",
+    "county": "Appling",
+    "zipCodes": [
+      "31513"
+    ],
+    "population": 413,
+    "trustScore": 100,
+    "activeViolations": 0,
+    "lastViolation": "2023-01-01",
+    "waterSource": "Groundwater",
+    "recentViolations": [
+      {
+        "id": 88458,
+        "type": "MR",
+        "contaminant": "Nitrate-Nitrite",
+        "date": "2023-01-01",
+        "status": "Resolved",
+        "healthBased": false,
+        "limit": " "
+      },
+      {
+        "id": 88459,
+        "type": "MR",
+        "contaminant": "Nitrate-Nitrite",
+        "date": "2023-01-01",
+        "status": "Resolved",
+        "healthBased": false,
+        "limit": " "
+      },
+      {
+        "id": 88460,
+        "type": "MR",
+        "contaminant": "Nitrate-Nitrite",
+        "date": "2023-01-01",
+        "status": "Resolved",
+        "healthBased": false,
+        "limit": " "
+      }
+    ]
+  },
+  {
+    "pwsid": "GA0010044",
+    "name": "BARBARA DEAN'S STEAKHOUSE",
+    "county": "Appling",
+    "zipCodes": [
+      "31513"
+    ],
+    "population": 25,
+    "trustScore": 100,
+    "activeViolations": 0,
+    "lastViolation": "2021-10-31",
+    "waterSource": "Groundwater",
+    "recentViolations": [
+      {
+        "id": 40069,
+        "type": "Other",
+        "contaminant": "Public Notice",
+        "date": "2021-10-31",
+        "status": "Resolved",
+        "healthBased": false,
+        "limit": " "
+      },
+      {
+        "id": 40070,
+        "type": "Other",
+        "contaminant": "Public Notice",
+        "date": "2021-10-31",
+        "status": "Resolved",
+        "healthBased": false,
+        "limit": " "
+      },
+      {
+        "id": 81132,
+        "type": "MON",
+        "contaminant": "Revised Total Coliform Rule",
+        "date": "2020-07-01",
+        "status": "Resolved",
+        "healthBased": false
+      }
+    ]
+  },
+  {
+    "pwsid": "GA0010047",
+    "name": "DOLLAR GENERAL #17761",
+    "county": "Appling",
+    "zipCodes": [
+      "37072"
+    ],
+    "population": 25,
+    "trustScore": 100,
+    "activeViolations": 0,
+    "lastViolation": null,
+    "waterSource": "Groundwater",
+    "recentViolations": []
+  },
+  {
+    "pwsid": "GA0030000",
+    "name": "PEARSON",
+    "county": "Atkinson",
+    "zipCodes": [
+      "31642"
+    ],
+    "population": 2200,
+    "trustScore": 65,
+    "activeViolations": 7,
+    "lastViolation": "2024-10-17",
+    "waterSource": "Groundwater",
+    "recentViolations": [
+      {
+        "id": 76184,
+        "type": "RPT",
+        "contaminant": "Radionuclides",
+        "date": "2024-10-17",
+        "status": "Active",
+        "healthBased": false
+      },
+      {
+        "id": 40071,
+        "type": "Other",
+        "contaminant": "Disinfection Byproducts",
+        "date": "2024-10-01",
+        "status": "Active",
+        "healthBased": false,
+        "limit": " "
+      },
+      {
+        "id": 124323,
+        "type": "Other",
+        "contaminant": "Disinfection Byproducts",
+        "date": "2024-07-01",
+        "status": "Active",
+        "healthBased": false,
+        "limit": " "
+      }
+    ]
+  },
+  {
+    "pwsid": "GA0030001",
+    "name": "WILLACOOCHEE WATER SYSTEM",
+    "county": "Atkinson",
+    "zipCodes": [
+      "31650"
+    ],
+    "population": 1435,
+    "trustScore": 65,
+    "activeViolations": 7,
+    "lastViolation": "2024-10-01",
+    "waterSource": "Groundwater",
+    "recentViolations": [
+      {
+        "id": 76166,
+        "type": "MCL",
+        "contaminant": "Gross Alpha, Excl. Radon and U",
+        "date": "2024-10-01",
+        "status": "Active",
+        "healthBased": true,
+        "level": "20.0 PCI/L",
+        "limit": "15 pCi/L"
+      },
+      {
+        "id": 76021,
+        "type": "MCL",
+        "contaminant": "Gross Alpha, Excl. Radon and U",
+        "date": "2024-07-01",
+        "status": "Active",
+        "healthBased": true,
+        "level": "18.0 PCI/L",
+        "limit": "15 pCi/L"
+      },
+      {
+        "id": 40075,
+        "type": "MCL",
+        "contaminant": "Gross Alpha, Excl. Radon and U",
+        "date": "2024-04-01",
+        "status": "Active",
+        "healthBased": true,
+        "level": "16.0 PCI/L",
+        "limit": "15 pCi/L"
+      }
+    ]
+  },
+  {
+    "pwsid": "GA0030004",
+    "name": "HERITAGE HILLS",
+    "county": "Atkinson",
+    "zipCodes": [
+      "31405"
+    ],
+    "population": 132,
+    "trustScore": 100,
+    "activeViolations": 0,
+    "lastViolation": "2017-07-01",
+    "waterSource": "Groundwater",
+    "recentViolations": [
+      {
+        "id": 133942,
+        "type": "Other",
+        "contaminant": "Disinfection Byproducts",
+        "date": "2017-07-01",
+        "status": "Resolved",
+        "healthBased": false,
+        "limit": " "
+      },
+      {
+        "id": 40079,
+        "type": "MR",
+        "contaminant": "Combined Radium (-226 and -228)",
+        "date": "2017-01-01",
+        "status": "Resolved",
+        "healthBased": false,
+        "limit": "5 pCi/L"
+      },
+      {
+        "id": 40080,
+        "type": "MR",
+        "contaminant": "Combined Radium (-226 and -228)",
+        "date": "2017-01-01",
+        "status": "Resolved",
+        "healthBased": false,
+        "limit": "5 pCi/L"
+      }
+    ]
+  },
+  {
+    "pwsid": "GA0030005",
+    "name": "THE OAKS SUBDIVISION",
+    "county": "Atkinson",
+    "zipCodes": [
+      "31405"
+    ],
+    "population": 58,
+    "trustScore": 100,
+    "activeViolations": 0,
+    "lastViolation": "2022-08-01",
+    "waterSource": "Groundwater",
+    "recentViolations": [
+      {
+        "id": 39921,
+        "type": "MON",
+        "contaminant": "Revised Total Coliform Rule",
+        "date": "2022-08-01",
+        "status": "Resolved",
+        "healthBased": false
+      },
+      {
+        "id": 39922,
+        "type": "MON",
+        "contaminant": "Revised Total Coliform Rule",
+        "date": "2022-08-01",
+        "status": "Resolved",
+        "healthBased": false
+      },
+      {
+        "id": 39923,
+        "type": "MON",
+        "contaminant": "Revised Total Coliform Rule",
+        "date": "2022-08-01",
+        "status": "Resolved",
+        "healthBased": false
+      }
+    ]
+  },
+  {
+    "pwsid": "GA0030006",
+    "name": "TRIPLE O MOBILE HOME PARK",
+    "county": "Atkinson",
+    "zipCodes": [
+      "31642"
+    ],
+    "population": 73,
+    "trustScore": 95,
+    "activeViolations": 1,
+    "lastViolation": "2024-10-17",
+    "waterSource": "Groundwater",
+    "recentViolations": [
+      {
+        "id": 89973,
+        "type": "RPT",
+        "contaminant": "Radionuclides",
+        "date": "2024-10-17",
+        "status": "Active",
+        "healthBased": false
+      },
+      {
+        "id": 96896,
+        "type": "Other",
+        "contaminant": "Public Notice",
+        "date": "2023-04-27",
+        "status": "Resolved",
+        "healthBased": false,
+        "limit": " "
+      },
+      {
+        "id": 96897,
+        "type": "Other",
+        "contaminant": "Public Notice",
+        "date": "2023-04-27",
+        "status": "Resolved",
+        "healthBased": false,
+        "limit": " "
+      }
+    ]
+  },
+  {
+    "pwsid": "GA0030008",
+    "name": "DOLLAR GENERAL AXSON STORE # 24601",
+    "county": "Atkinson",
+    "zipCodes": [
+      "37072"
+    ],
+    "population": 25,
+    "trustScore": 100,
+    "activeViolations": 0,
+    "lastViolation": null,
+    "waterSource": "Groundwater",
+    "recentViolations": []
+  },
+  {
+    "pwsid": "GA0050000",
+    "name": "ALMA",
+    "county": "Bacon",
+    "zipCodes": [
+      "31510"
+    ],
+    "population": 4064,
+    "trustScore": 95,
+    "activeViolations": 1,
+    "lastViolation": "2012-08-01",
+    "waterSource": "Groundwater",
+    "recentViolations": [
+      {
+        "id": 23009,
+        "type": "MR",
+        "contaminant": "Total Coliform",
+        "date": "2012-08-01",
+        "status": "Active",
+        "healthBased": false,
+        "limit": "5% of samples"
+      },
+      {
+        "id": 23010,
+        "type": "MR",
+        "contaminant": "Total Coliform",
+        "date": "2012-08-01",
+        "status": "Active",
+        "healthBased": false,
+        "limit": "5% of samples"
+      },
+      {
+        "id": 96783,
+        "type": "Other",
+        "contaminant": "Disinfection Byproducts",
+        "date": "2001-07-01",
+        "status": "Resolved",
+        "healthBased": false,
+        "limit": " "
+      }
+    ]
+  },
+  {
+    "pwsid": "GA0050001",
+    "name": "MILLIKEN & COMPANY",
+    "county": "Bacon",
+    "zipCodes": [
+      "31554"
+    ],
+    "population": 220,
+    "trustScore": 90,
+    "activeViolations": 2,
+    "lastViolation": "1992-04-01",
+    "waterSource": "Groundwater",
+    "recentViolations": [
+      {
+        "id": 995,
+        "type": "MR",
+        "contaminant": "Total Coliform",
+        "date": "1992-04-01",
+        "status": "Active",
+        "healthBased": false,
+        "level": "0.0",
+        "limit": "5% of samples"
+      },
+      {
+        "id": 996,
+        "type": "MR",
+        "contaminant": "Total Coliform",
+        "date": "1992-04-01",
+        "status": "Active",
+        "healthBased": false,
+        "level": "0.0",
+        "limit": "5% of samples"
+      }
+    ]
+  },
+  {
+    "pwsid": "GA0050007",
+    "name": "HIGHLAND PARK SUBDIVISION",
+    "county": "Bacon",
+    "zipCodes": [
+      "31510"
+    ],
+    "population": 65,
+    "trustScore": 85,
+    "activeViolations": 3,
+    "lastViolation": "2023-12-01",
+    "waterSource": "Groundwater",
+    "recentViolations": [
+      {
+        "id": 39935,
+        "type": "MON",
+        "contaminant": "Revised Total Coliform Rule",
+        "date": "2023-12-01",
+        "status": "Resolved",
+        "healthBased": false
+      },
+      {
+        "id": 39936,
+        "type": "MON",
+        "contaminant": "Revised Total Coliform Rule",
+        "date": "2023-12-01",
+        "status": "Resolved",
+        "healthBased": false
+      },
+      {
+        "id": 39937,
+        "type": "MON",
+        "contaminant": "Revised Total Coliform Rule",
+        "date": "2023-12-01",
+        "status": "Resolved",
+        "healthBased": false
+      }
+    ]
+  },
+  {
+    "pwsid": "GA0050021",
+    "name": "DOLLAR GENERAL # 22394 (ALMA)",
+    "county": "Bacon",
+    "zipCodes": [
+      "77406"
+    ],
+    "population": 25,
+    "trustScore": 100,
+    "activeViolations": 0,
+    "lastViolation": null,
+    "waterSource": "Groundwater",
+    "recentViolations": []
+  },
+  {
+    "pwsid": "GA0050022",
+    "name": "DOLLAR GENERAL #24661 (ALMA)",
+    "county": "Bacon",
+    "zipCodes": [
+      "37072"
+    ],
+    "population": 25,
+    "trustScore": 100,
+    "activeViolations": 0,
+    "lastViolation": null,
+    "waterSource": "Groundwater",
+    "recentViolations": []
+  },
+  {
+    "pwsid": "GA0050023",
+    "name": "DOLLAR GENERAL #25925 ALMA",
+    "county": "Bacon",
+    "zipCodes": [
+      "37072"
+    ],
+    "population": 30,
+    "trustScore": 100,
+    "activeViolations": 0,
+    "lastViolation": null,
+    "waterSource": "Groundwater",
+    "recentViolations": []
+  },
+  {
+    "pwsid": "GA0070000",
+    "name": "NEWTON",
+    "county": "Baker",
+    "zipCodes": [
+      "39870"
+    ],
+    "population": 775,
+    "trustScore": 25,
+    "activeViolations": 15,
+    "lastViolation": "2024-10-01",
+    "waterSource": "Groundwater",
+    "recentViolations": [
+      {
+        "id": 39885,
+        "type": "Other",
+        "contaminant": "Disinfection Byproducts",
+        "date": "2024-10-01",
+        "status": "Active",
+        "healthBased": false,
+        "limit": " "
+      },
+      {
+        "id": 108475,
+        "type": "Other",
+        "contaminant": "Disinfection Byproducts",
+        "date": "2024-07-01",
+        "status": "Active",
+        "healthBased": false,
+        "limit": " "
+      },
+      {
+        "id": 90576,
+        "type": "MON",
+        "contaminant": "Revised Total Coliform Rule",
+        "date": "2024-03-01",
+        "status": "Resolved",
+        "healthBased": false
+      }
+    ]
+  },
+  {
+    "pwsid": "GA0070005",
+    "name": "ICHAUWAY # 1",
+    "county": "Baker",
+    "zipCodes": [
+      "39870"
+    ],
+    "population": 60,
+    "trustScore": 100,
+    "activeViolations": 0,
+    "lastViolation": null,
+    "waterSource": "Groundwater",
+    "recentViolations": []
+  },
+  {
+    "pwsid": "GA0070006",
+    "name": "ICHAUWAY #2",
+    "county": "Baker",
+    "zipCodes": [
+      "39870"
+    ],
+    "population": 59,
+    "trustScore": 100,
+    "activeViolations": 0,
+    "lastViolation": "2021-07-01",
+    "waterSource": "Groundwater",
+    "recentViolations": [
+      {
+        "id": 39886,
+        "type": "Other",
+        "contaminant": "Disinfection Byproducts",
+        "date": "2021-07-01",
+        "status": "Resolved",
+        "healthBased": false,
+        "limit": " "
+      },
+      {
+        "id": 39887,
+        "type": "Other",
+        "contaminant": "Disinfection Byproducts",
+        "date": "2021-07-01",
+        "status": "Resolved",
+        "healthBased": false,
+        "limit": " "
+      },
+      {
+        "id": 102848,
+        "type": "MR",
+        "contaminant": "Total Coliform",
+        "date": "2001-07-01",
+        "status": "Active",
+        "healthBased": false,
+        "level": "0.0",
+        "limit": "5% of samples"
+      }
+    ]
+  },
+  {
+    "pwsid": "GA0090000",
+    "name": "BALDWIN COUNTY",
+    "county": "Baldwin",
+    "zipCodes": [
+      "31061"
+    ],
+    "population": 23067,
+    "trustScore": 80,
+    "activeViolations": 4,
+    "lastViolation": "2024-10-01",
+    "waterSource": "Surface Water",
+    "recentViolations": [
+      {
+        "id": 76116,
+        "type": "MCL",
+        "contaminant": "TTHM",
+        "date": "2024-10-01",
+        "status": "Active",
+        "healthBased": true,
+        "level": "0.093 MG/L",
+        "limit": "0.080 mg/L"
+      },
+      {
+        "id": 133373,
+        "type": "MCL",
+        "contaminant": "Total Haloacetic Acids (HAA5)",
+        "date": "2024-10-01",
+        "status": "Active",
+        "healthBased": true,
+        "level": "0.072 MG/L",
+        "limit": "0.060 mg/L"
+      },
+      {
+        "id": 88446,
+        "type": "MCL",
+        "contaminant": "Total Haloacetic Acids (HAA5)",
+        "date": "2024-07-01",
+        "status": "Active",
+        "healthBased": true,
+        "level": "0.07 MG/L",
+        "limit": "0.060 mg/L"
+      }
+    ]
+  },
+  {
+    "pwsid": "GA0090001",
+    "name": "MILLEDGEVILLE",
+    "county": "Baldwin",
+    "zipCodes": [
+      "31059"
+    ],
+    "population": 20540,
+    "trustScore": 85,
+    "activeViolations": 3,
+    "lastViolation": "2024-01-01",
+    "waterSource": "Surface Water",
+    "recentViolations": [
+      {
+        "id": 39896,
+        "type": "MCL",
+        "contaminant": "TTHM",
+        "date": "2024-01-01",
+        "status": "Resolved",
+        "healthBased": true,
+        "level": "0.087 MG/L",
+        "limit": "0.080 mg/L"
+      },
+      {
+        "id": 39897,
+        "type": "MCL",
+        "contaminant": "TTHM",
+        "date": "2024-01-01",
+        "status": "Resolved",
+        "healthBased": true,
+        "level": "0.087 MG/L",
+        "limit": "0.080 mg/L"
+      },
+      {
+        "id": 39898,
+        "type": "MCL",
+        "contaminant": "TTHM",
+        "date": "2024-01-01",
+        "status": "Resolved",
+        "healthBased": true,
+        "level": "0.087 MG/L",
+        "limit": "0.080 mg/L"
+      }
+    ]
+  },
+  {
+    "pwsid": "GA0090042",
+    "name": "MERIWETHER-GOLDEN POND SUBDIVISION",
+    "county": "Baldwin",
+    "zipCodes": [
+      "31024"
+    ],
+    "population": 124,
+    "trustScore": 100,
+    "activeViolations": 0,
+    "lastViolation": "2023-04-01",
+    "waterSource": "Groundwater",
+    "recentViolations": [
+      {
+        "id": 40250,
+        "type": "MCL",
+        "contaminant": "Total Haloacetic Acids (HAA5)",
+        "date": "2023-04-01",
+        "status": "Resolved",
+        "healthBased": true,
+        "level": "0.064 MG/L",
+        "limit": "0.060 mg/L"
+      },
+      {
+        "id": 40251,
+        "type": "MCL",
+        "contaminant": "Total Haloacetic Acids (HAA5)",
+        "date": "2023-04-01",
+        "status": "Resolved",
+        "healthBased": true,
+        "level": "0.064 MG/L",
+        "limit": "0.060 mg/L"
+      },
+      {
+        "id": 40252,
+        "type": "MCL",
+        "contaminant": "Total Haloacetic Acids (HAA5)",
+        "date": "2023-04-01",
+        "status": "Resolved",
+        "healthBased": true,
+        "level": "0.064 MG/L",
+        "limit": "0.060 mg/L"
+      }
+    ]
+  },
+  {
+    "pwsid": "GA0090046",
+    "name": "LANDS END SUBDIVISION",
+    "county": "Baldwin",
+    "zipCodes": [
+      "31024"
+    ],
+    "population": 42,
+    "trustScore": 100,
+    "activeViolations": 0,
+    "lastViolation": "2022-01-01",
+    "waterSource": "Surface Water",
+    "recentViolations": [
+      {
+        "id": 40254,
+        "type": "MR",
+        "contaminant": "Nitrate-Nitrite",
+        "date": "2022-01-01",
+        "status": "Resolved",
+        "healthBased": false,
+        "limit": " "
+      },
+      {
+        "id": 40255,
+        "type": "MR",
+        "contaminant": "Nitrate-Nitrite",
+        "date": "2022-01-01",
+        "status": "Resolved",
+        "healthBased": false,
+        "limit": " "
+      },
+      {
+        "id": 40256,
+        "type": "MR",
+        "contaminant": "Nitrate-Nitrite",
+        "date": "2022-01-01",
+        "status": "Resolved",
+        "healthBased": false,
+        "limit": " "
+      }
+    ]
+  },
+  {
+    "pwsid": "GA0090047",
+    "name": "BALDWIN FOREST SUBDIVISION",
+    "county": "Baldwin",
+    "zipCodes": [
+      "31024"
+    ],
+    "population": 32,
+    "trustScore": 100,
+    "activeViolations": 0,
+    "lastViolation": null,
+    "waterSource": "Groundwater",
+    "recentViolations": []
+  },
+  {
+    "pwsid": "GA0110000",
+    "name": "HOMER",
+    "county": "Banks",
+    "zipCodes": [
+      "30547"
+    ],
+    "population": 900,
+    "trustScore": 5,
+    "activeViolations": 19,
+    "lastViolation": "2024-12-01",
+    "waterSource": "Surface Water",
+    "recentViolations": [
+      {
+        "id": 75285,
+        "type": "MON",
+        "contaminant": "Revised Total Coliform Rule",
+        "date": "2024-12-01",
+        "status": "Active",
+        "healthBased": false
+      },
+      {
+        "id": 76114,
+        "type": "MR",
+        "contaminant": "Nitrate-Nitrite",
+        "date": "2024-01-01",
+        "status": "Active",
+        "healthBased": false,
+        "limit": " "
+      },
+      {
+        "id": 40264,
+        "type": "MCL",
+        "contaminant": "Gross Alpha, Excl. Radon and U",
+        "date": "2022-10-01",
+        "status": "Resolved",
+        "healthBased": true,
+        "level": "18.0 PCI/L",
+        "limit": "15 pCi/L"
+      }
+    ]
+  },
+  {
+    "pwsid": "GA0110001",
+    "name": "MAYSVILLE WATER SYSTEM",
+    "county": "Banks",
+    "zipCodes": [
+      "30558"
+    ],
+    "population": 2838,
+    "trustScore": 90,
+    "activeViolations": 2,
+    "lastViolation": "2024-04-01",
+    "waterSource": "Surface Water",
+    "recentViolations": [
+      {
+        "id": 102348,
+        "type": "MCL",
+        "contaminant": "Total Haloacetic Acids (HAA5)",
+        "date": "2024-04-01",
+        "status": "Resolved",
+        "healthBased": true,
+        "level": "0.063 MG/L",
+        "limit": "0.060 mg/L"
+      },
+      {
+        "id": 102357,
+        "type": "MCL",
+        "contaminant": "Total Haloacetic Acids (HAA5)",
+        "date": "2024-04-01",
+        "status": "Resolved",
+        "healthBased": true,
+        "level": "0.063 MG/L",
+        "limit": "0.060 mg/L"
+      },
+      {
+        "id": 102358,
+        "type": "MCL",
+        "contaminant": "Total Haloacetic Acids (HAA5)",
+        "date": "2024-04-01",
+        "status": "Resolved",
+        "healthBased": true,
+        "level": "0.063 MG/L",
+        "limit": "0.060 mg/L"
+      }
+    ]
+  },
+  {
+    "pwsid": "GA0110026",
+    "name": "BANKS CO - MOUNTAIN CREEK",
+    "county": "Banks",
+    "zipCodes": [
+      "30547"
+    ],
+    "population": 6453,
+    "trustScore": 100,
+    "activeViolations": 0,
+    "lastViolation": "2015-07-01",
+    "waterSource": "Surface Water",
+    "recentViolations": [
+      {
+        "id": 360,
+        "type": "Other",
+        "contaminant": "Disinfection Byproducts",
+        "date": "2015-07-01",
+        "status": "Resolved",
+        "healthBased": false,
+        "limit": " "
+      },
+      {
+        "id": 361,
+        "type": "Other",
+        "contaminant": "Disinfection Byproducts",
+        "date": "2015-07-01",
+        "status": "Resolved",
+        "healthBased": false,
+        "limit": " "
+      },
+      {
+        "id": 904,
+        "type": "MR",
+        "contaminant": "Total Coliform",
+        "date": "2005-09-01",
+        "status": "Active",
+        "healthBased": false,
+        "limit": "5% of samples"
+      }
+    ]
+  },
+  {
+    "pwsid": "GA0110028",
+    "name": "SCALES CREEK GOLF COURSE",
+    "county": "Banks",
+    "zipCodes": [
+      "30547"
+    ],
+    "population": 50,
+    "trustScore": 100,
+    "activeViolations": 0,
+    "lastViolation": "2024-12-01",
+    "waterSource": "Surface Water",
+    "recentViolations": [
+      {
+        "id": 97430,
+        "type": "MON",
+        "contaminant": "Revised Total Coliform Rule",
+        "date": "2024-12-01",
+        "status": "Active",
+        "healthBased": false
+      },
+      {
+        "id": 40663,
+        "type": "MR",
+        "contaminant": "Total Coliform",
+        "date": "2015-08-01",
+        "status": "Active",
+        "healthBased": false,
+        "limit": "5% of samples"
+      },
+      {
+        "id": 40664,
+        "type": "MR",
+        "contaminant": "Total Coliform",
+        "date": "2015-08-01",
+        "status": "Active",
+        "healthBased": false,
+        "limit": "5% of samples"
+      }
+    ]
+  },
+  {
+    "pwsid": "GA0110029",
+    "name": "HIDDEN LAKE SUBDIVISION",
+    "county": "Banks",
+    "zipCodes": [
+      "30547"
+    ],
+    "population": 105,
+    "trustScore": 100,
+    "activeViolations": 0,
+    "lastViolation": "2024-12-01",
+    "waterSource": "Surface Water",
+    "recentViolations": [
+      {
+        "id": 117473,
+        "type": "MON",
+        "contaminant": "Revised Total Coliform Rule",
+        "date": "2024-12-01",
+        "status": "Active",
+        "healthBased": false
+      },
+      {
+        "id": 105372,
+        "type": "MR",
+        "contaminant": "Total Coliform",
+        "date": "2015-08-01",
+        "status": "Active",
+        "healthBased": false,
+        "limit": "5% of samples"
+      },
+      {
+        "id": 105373,
+        "type": "MR",
+        "contaminant": "Total Coliform",
+        "date": "2015-08-01",
+        "status": "Active",
+        "healthBased": false,
+        "limit": "5% of samples"
+      }
+    ]
+  },
+  {
+    "pwsid": "GA0110030",
+    "name": "CHIMNEY OAKS",
+    "county": "Banks",
+    "zipCodes": [
+      "30547"
+    ],
+    "population": 368,
+    "trustScore": 100,
+    "activeViolations": 0,
+    "lastViolation": "2024-12-01",
+    "waterSource": "Surface Water",
+    "recentViolations": [
+      {
+        "id": 75787,
+        "type": "MON",
+        "contaminant": "Revised Total Coliform Rule",
+        "date": "2024-12-01",
+        "status": "Active",
+        "healthBased": false
+      }
+    ]
+  },
+  {
+    "pwsid": "GA0110031",
+    "name": "APPLE PIE RIDGE SUBDIVISION",
+    "county": "Banks",
+    "zipCodes": [
+      "31411"
+    ],
+    "population": 49,
+    "trustScore": 100,
+    "activeViolations": 0,
+    "lastViolation": null,
+    "waterSource": "Surface Water",
+    "recentViolations": []
+  },
+  {
+    "pwsid": "GA0130000",
+    "name": "AUBURN",
+    "county": "Barrow",
+    "zipCodes": [
+      "30011"
+    ],
+    "population": 10060,
+    "trustScore": 90,
+    "activeViolations": 2,
+    "lastViolation": "2024-07-01",
+    "waterSource": "Surface Water",
+    "recentViolations": [
+      {
+        "id": 85280,
+        "type": "Other",
+        "contaminant": "Disinfection Byproducts",
+        "date": "2024-07-01",
+        "status": "Resolved",
+        "healthBased": false,
+        "limit": " "
+      },
+      {
+        "id": 85281,
+        "type": "Other",
+        "contaminant": "Disinfection Byproducts",
+        "date": "2024-07-01",
+        "status": "Resolved",
+        "healthBased": false,
+        "limit": " "
+      },
+      {
+        "id": 40673,
+        "type": "MCL",
+        "contaminant": "TTHM",
+        "date": "2023-01-01",
+        "status": "Resolved",
+        "healthBased": true,
+        "level": "0.088 MG/L",
+        "limit": "0.080 mg/L"
+      }
+    ]
+  },
+  {
+    "pwsid": "GA0130001",
+    "name": "STATHAM",
+    "county": "Barrow",
+    "zipCodes": [
+      "30666"
+    ],
+    "population": 3986,
+    "trustScore": 80,
+    "activeViolations": 4,
+    "lastViolation": "2024-07-01",
+    "waterSource": "Surface Water",
+    "recentViolations": [
+      {
+        "id": 40184,
+        "type": "Other",
+        "contaminant": "Disinfection Byproducts",
+        "date": "2024-07-01",
+        "status": "Resolved",
+        "healthBased": false,
+        "limit": " "
+      },
+      {
+        "id": 40185,
+        "type": "Other",
+        "contaminant": "Disinfection Byproducts",
+        "date": "2024-07-01",
+        "status": "Resolved",
+        "healthBased": false,
+        "limit": " "
+      },
+      {
+        "id": 40677,
+        "type": "Other",
+        "contaminant": "Disinfection Byproducts",
+        "date": "2022-10-01",
+        "status": "Resolved",
+        "healthBased": false,
+        "limit": " "
+      }
+    ]
+  },
+  {
+    "pwsid": "GA0130002",
+    "name": "WINDER",
+    "county": "Barrow",
+    "zipCodes": [
+      "30680"
+    ],
+    "population": 51540,
+    "trustScore": 95,
+    "activeViolations": 1,
+    "lastViolation": "2014-07-01",
+    "waterSource": "Surface Water",
+    "recentViolations": [
+      {
+        "id": 107963,
+        "type": "Other",
+        "contaminant": "Disinfection Byproducts",
+        "date": "2014-07-01",
+        "status": "Resolved",
+        "healthBased": false,
+        "limit": " "
+      },
+      {
+        "id": 107964,
+        "type": "Other",
+        "contaminant": "Disinfection Byproducts",
+        "date": "2014-07-01",
+        "status": "Resolved",
+        "healthBased": false,
+        "limit": " "
+      },
+      {
+        "id": 96669,
+        "type": "Other",
+        "contaminant": "Disinfection Byproducts",
+        "date": "2010-07-01",
+        "status": "Resolved",
+        "healthBased": false,
+        "limit": " "
+      }
+    ]
+  },
+  {
+    "pwsid": "GA0130008",
+    "name": "BENT CREEK SUBDIVISION",
+    "county": "Barrow",
+    "zipCodes": [
+      "31024"
+    ],
+    "population": 203,
+    "trustScore": 100,
+    "activeViolations": 0,
+    "lastViolation": "2020-11-27",
+    "waterSource": "Groundwater",
+    "recentViolations": [
+      {
+        "id": 127379,
+        "type": "MR",
+        "contaminant": "E. COLI",
+        "date": "2020-11-27",
+        "status": "Resolved",
+        "healthBased": false,
+        "limit": "0 "
+      },
+      {
+        "id": 127380,
+        "type": "MR",
+        "contaminant": "E. COLI",
+        "date": "2020-11-27",
+        "status": "Resolved",
+        "healthBased": false,
+        "limit": "0 "
+      },
+      {
+        "id": 127381,
+        "type": "MR",
+        "contaminant": "E. COLI",
+        "date": "2020-11-27",
+        "status": "Resolved",
+        "healthBased": false,
+        "limit": "0 "
+      }
+    ]
+  },
+  {
+    "pwsid": "GA0130011",
+    "name": "AUBURN MOBILE HOME PARK",
+    "county": "Barrow",
+    "zipCodes": [
+      "30011"
+    ],
+    "population": 159,
+    "trustScore": 40,
+    "activeViolations": 12,
+    "lastViolation": "2024-08-01",
+    "waterSource": "Surface Water",
+    "recentViolations": [
+      {
+        "id": 125320,
+        "type": "MON",
+        "contaminant": "Revised Total Coliform Rule",
+        "date": "2024-08-01",
+        "status": "Resolved",
+        "healthBased": false
+      },
+      {
+        "id": 125321,
+        "type": "MON",
+        "contaminant": "Revised Total Coliform Rule",
+        "date": "2024-08-01",
+        "status": "Resolved",
+        "healthBased": false
+      },
+      {
+        "id": 125322,
+        "type": "MON",
+        "contaminant": "Revised Total Coliform Rule",
+        "date": "2024-08-01",
+        "status": "Resolved",
+        "healthBased": false
+      }
+    ]
+  },
+  {
+    "pwsid": "GA0130031",
+    "name": "BARROW COUNTY WATER SYSTEM",
+    "county": "Barrow",
+    "zipCodes": [
+      "30680"
+    ],
+    "population": 17893,
+    "trustScore": 80,
+    "activeViolations": 4,
+    "lastViolation": "2020-04-01",
+    "waterSource": "Surface Water",
+    "recentViolations": [
+      {
+        "id": 107275,
+        "type": "MCL",
+        "contaminant": "TTHM",
+        "date": "2020-04-01",
+        "status": "Resolved",
+        "healthBased": true,
+        "level": "0.083 MG/L",
+        "limit": "0.080 mg/L"
+      },
+      {
+        "id": 107276,
+        "type": "MCL",
+        "contaminant": "TTHM",
+        "date": "2020-04-01",
+        "status": "Resolved",
+        "healthBased": true,
+        "level": "0.083 MG/L",
+        "limit": "0.080 mg/L"
+      },
+      {
+        "id": 107277,
+        "type": "MCL",
+        "contaminant": "TTHM",
+        "date": "2020-04-01",
+        "status": "Resolved",
+        "healthBased": true,
+        "level": "0.083 MG/L",
+        "limit": "0.080 mg/L"
+      }
+    ]
+  },
+  {
+    "pwsid": "GA0130032",
+    "name": "OAK HILLS WATER SYSTEM",
+    "county": "Barrow",
+    "zipCodes": [
+      "30677"
+    ],
+    "population": 192,
+    "trustScore": 100,
+    "activeViolations": 0,
+    "lastViolation": "2023-10-01",
+    "waterSource": "Surface Water",
+    "recentViolations": [
+      {
+        "id": 40517,
+        "type": "Other",
+        "contaminant": "Disinfection Byproducts",
+        "date": "2023-10-01",
+        "status": "Resolved",
+        "healthBased": false,
+        "limit": " "
+      },
+      {
+        "id": 40518,
+        "type": "Other",
+        "contaminant": "Disinfection Byproducts",
+        "date": "2023-10-01",
+        "status": "Resolved",
+        "healthBased": false,
+        "limit": " "
+      },
+      {
+        "id": 120274,
+        "type": "MR",
+        "contaminant": "Total Coliform",
+        "date": "2010-07-01",
+        "status": "Active",
+        "healthBased": false,
+        "limit": "5% of samples"
+      }
+    ]
+  },
+  {
+    "pwsid": "GA0130033",
+    "name": "RIVER BLUFF SUBDIVISION",
+    "county": "Barrow",
+    "zipCodes": [
+      "30677"
+    ],
+    "population": 105,
+    "trustScore": 100,
+    "activeViolations": 0,
+    "lastViolation": "2023-10-01",
+    "waterSource": "Groundwater",
+    "recentViolations": [
+      {
+        "id": 40519,
+        "type": "Other",
+        "contaminant": "Disinfection Byproducts",
+        "date": "2023-10-01",
+        "status": "Resolved",
+        "healthBased": false,
+        "limit": " "
+      },
+      {
+        "id": 40520,
+        "type": "Other",
+        "contaminant": "Disinfection Byproducts",
+        "date": "2023-10-01",
+        "status": "Resolved",
+        "healthBased": false,
+        "limit": " "
+      },
+      {
+        "id": 78066,
+        "type": "Other",
+        "contaminant": "Disinfection Byproducts",
+        "date": "2023-07-01",
+        "status": "Resolved",
+        "healthBased": false,
+        "limit": " "
+      }
+    ]
+  },
+  {
+    "pwsid": "GA0150000",
+    "name": "ADAIRSVILLE",
+    "county": "Bartow",
+    "zipCodes": [
+      "30103"
+    ],
+    "population": 7306,
+    "trustScore": 40,
+    "activeViolations": 12,
+    "lastViolation": "2020-07-01",
+    "waterSource": "Groundwater Under Influence",
+    "recentViolations": [
+      {
+        "id": 81069,
+        "type": "Other",
+        "contaminant": "Disinfection Byproducts",
+        "date": "2020-07-01",
+        "status": "Resolved",
+        "healthBased": false,
+        "limit": " "
+      },
+      {
+        "id": 81070,
+        "type": "Other",
+        "contaminant": "Disinfection Byproducts",
+        "date": "2020-07-01",
+        "status": "Resolved",
+        "healthBased": false,
+        "limit": " "
+      },
+      {
+        "id": 23922,
+        "type": "Other",
+        "contaminant": "Disinfection Byproducts",
+        "date": "2012-07-01",
+        "status": "Resolved",
+        "healthBased": false,
+        "limit": " "
+      }
+    ]
+  },
+  {
+    "pwsid": "GA0150001",
+    "name": "BARTOW COUNTY",
+    "county": "Bartow",
+    "zipCodes": [
+      "30120"
+    ],
+    "population": 60873,
+    "trustScore": 90,
+    "activeViolations": 2,
+    "lastViolation": "2024-07-01",
+    "waterSource": "Surface Water",
+    "recentViolations": [
+      {
+        "id": 80200,
+        "type": "Other",
+        "contaminant": "Disinfection Byproducts",
+        "date": "2024-07-01",
+        "status": "Resolved",
+        "healthBased": false,
+        "limit": " "
+      },
+      {
+        "id": 80201,
+        "type": "Other",
+        "contaminant": "Disinfection Byproducts",
+        "date": "2024-07-01",
+        "status": "Resolved",
+        "healthBased": false,
+        "limit": " "
+      },
+      {
+        "id": 23141,
+        "type": "MCL",
+        "contaminant": "Total Coliform",
+        "date": "2010-06-01",
+        "status": "Active",
+        "healthBased": true,
+        "limit": "5% of samples"
+      }
+    ]
+  },
+  {
+    "pwsid": "GA0150002",
+    "name": "CARTERSVILLE",
+    "county": "Bartow",
+    "zipCodes": [
+      "30120"
+    ],
+    "population": 24830,
+    "trustScore": 100,
+    "activeViolations": 0,
+    "lastViolation": "2018-07-01",
+    "waterSource": "Surface Water",
+    "recentViolations": [
+      {
+        "id": 40527,
+        "type": "Other",
+        "contaminant": "Disinfection Byproducts",
+        "date": "2018-07-01",
+        "status": "Resolved",
+        "healthBased": false,
+        "limit": " "
+      },
+      {
+        "id": 40528,
+        "type": "Other",
+        "contaminant": "Disinfection Byproducts",
+        "date": "2018-07-01",
+        "status": "Resolved",
+        "healthBased": false,
+        "limit": " "
+      },
+      {
+        "id": 40525,
+        "type": "Other",
+        "contaminant": "Disinfection Byproducts",
+        "date": "2017-07-01",
+        "status": "Resolved",
+        "healthBased": false,
+        "limit": " "
+      }
+    ]
+  },
+  {
+    "pwsid": "GA0150003",
+    "name": "KINGSTON",
+    "county": "Bartow",
+    "zipCodes": [
+      "30145"
+    ],
+    "population": 1263,
+    "trustScore": 60,
+    "activeViolations": 8,
+    "lastViolation": "2023-10-01",
+    "waterSource": "Groundwater",
+    "recentViolations": [
+      {
+        "id": 131791,
+        "type": "Other",
+        "contaminant": "Disinfection Byproducts",
+        "date": "2023-10-01",
+        "status": "Resolved",
+        "healthBased": false,
+        "limit": " "
+      },
+      {
+        "id": 131792,
+        "type": "Other",
+        "contaminant": "Disinfection Byproducts",
+        "date": "2023-10-01",
+        "status": "Resolved",
+        "healthBased": false,
+        "limit": " "
+      },
+      {
+        "id": 40529,
+        "type": "Other",
+        "contaminant": "Disinfection Byproducts",
+        "date": "2023-07-01",
+        "status": "Resolved",
+        "healthBased": false,
+        "limit": " "
+      }
+    ]
+  }
+]

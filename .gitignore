@@ -1,0 +1,35 @@
+# === Node Modules ===
+node_modules/
+
+# === Dependency Lock Files (pick one manager) ===
+# yarn.lock
+# pnpm-lock.yaml
+
+# === Logs ===
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# === Build Outputs ===
+dist/
+build/
+.next/
+out/
+coverage/
+
+# === System Files ===
+.DS_Store
+Thumbs.db
+
+# === Environment & Local Config ===
+.env
+.env.*.local
+.vscode/
+.idea/
+
+# === Optional ===
+*.local
+*.log
+*.tgz
+.cache/
+.eslintcache
