@@ -32,4 +32,5 @@ Thumbs.db
 *.log
 *.tgz
 .cache/
-.eslintcache
+.eslintcache/operator-dashboard/public/water_systems_data.json
+/operator-dashboard/public/dashboard_data.json
